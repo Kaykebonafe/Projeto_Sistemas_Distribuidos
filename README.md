@@ -10,3 +10,6 @@ Para instalar o jupyter notebook é muito simples:
 - Para executar o Jupyter Notebook simplesmente digite em seu terminal jupyter notebook
 
 Para executar via terminal, apenas abra seu terminal no diretório e digite python Projeto_SD.py
+
+
+O arquivo BASE.txt utilizado neste algoritmo é muito grande para ser enviado para o github, portanto não se encontra no repositório. Para executar o código, coloque-o no repositório.
